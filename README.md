@@ -13,7 +13,7 @@ npm i
 npm i discord.js
 ```
 
-### Install developer dependence
+### Install a nodemon to developer dependence
 ```
 npm i nodemon@2.0.15
 ```
