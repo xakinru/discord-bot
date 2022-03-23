@@ -13,4 +13,14 @@ npm i
 npm i discord.js
 ```
 
+### Install developer dependence
+```
+npm i nodemon@2.0.15
+```
+
+### **TO START**
+```
+npm run umi
+```
+
 ## Edit the config.js file. (token)
