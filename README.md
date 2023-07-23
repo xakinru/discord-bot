@@ -10,7 +10,7 @@ npm i
 
 ### Install discordJS (api v9)
 ```
-npm i discord.js
+npm i discord.js@9
 ```
 
 ### Install a nodemon to developer dependence
